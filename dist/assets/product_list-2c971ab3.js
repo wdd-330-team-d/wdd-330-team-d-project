@@ -1,0 +1,1 @@
+import{q as o,b as r,l as t}from"./utils-e2829c12.js";import{p as a}from"./productList-893bb92f.js";import"./superscript-86df5b0d.js";import"./product-46761964.js";import"./externalServices-db2f91cb.js";const e=o("#main-header"),m=o("footer"),s=r("category");t(e,m);a(".product-list",s);
