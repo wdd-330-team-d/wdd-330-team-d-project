@@ -1,1 +1,0 @@
-import{q as o,l as r}from"./utils-e2829c12.js";import{p as t}from"./productList-893bb92f.js";import"./superscript-86df5b0d.js";import"./externalServices-db2f91cb.js";const a=o("#main-header"),e=o("footer");r(a,e);t();
